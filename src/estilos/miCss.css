@@ -1,0 +1,196 @@
+.Fondo{
+
+    background-color:  #FDFEFE;
+
+}
+
+.logosc{
+height: 10%;
+width: 10%;
+
+}
+header {
+    background-color: #FDFEFE;
+    color: white;
+    padding: 10px 5%; /* Ajustar el relleno para pantallas más pequeñas */
+    display: flex;
+    flex-wrap: wrap; /* Permitir que los elementos se envuelvan en pantallas más pequeñas */
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+}
+
+.logo img {
+    max-height: 35px;
+}
+
+.navlink{
+
+    text-decoration: none;
+    color: #138D75;
+    font-weight: bold;
+    padding: 10px 5px;
+}
+.inicio{
+    margin-left: 20%;
+    display: inline-flex;
+}
+nav a:hover {
+    color: #1ab394; /* Cambia el color al pasar el ratón por encima */
+}
+
+nav a:hover::after,
+nav a.active::after {
+    width: 100%;
+}
+
+.user-section {
+    display: flex;
+}
+
+.user-section a {
+    text-decoration: none;
+   
+    margin-left: 20px;
+   
+}
+
+.userLogin{
+   
+    color: #138D75;
+    padding: 10px 5px;
+
+}
+.userRegister{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    padding: 10px 20px;
+    border-radius: 20px; /* Bordes redondos */
+    background-color: #138D75; /* Color verde */
+    transition: background-color 0.3s; /* Efecto de transición para suavizar cambios */
+
+}
+.userRegister:hover{
+    background-color: #1ab394;
+    color: white; /* Cambia el color al pasar el ratón por encima */
+}
+.userLogin:hover{
+    background-color: #F0F3F4 ;
+}
+
+/* Puedes agregar más estilos según tus preferencias */
+.titulo{
+display: flex;
+color: #138D75;
+font-weight: bold;
+margin-left: 10%;
+margin-top: 20%;
+
+}
+
+.robot{
+    max-width: 100%;
+    height: auto;
+}
+
+.contenedor {
+    width: 100%;
+    overflow: hidden; /* Clearfix para manejar el float */
+    margin-top: 5%;
+}
+
+.izquierda {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.parrafo{
+    color: black;
+    margin-left: 10%;
+    text-align: left;
+    }
+.derecha {
+    width: 50%;
+    float: right;
+    text-align: center;
+}
+.comenzar{
+    text-align: left;
+    text-decoration: none;
+    color: white;
+    margin-left: 0;
+    padding: 10px 50px;
+    border-radius: 20px; /* Bordes redondos */
+    background-color: #138D75; /* Color verde */
+    transition: background-color 0.3s; /* Efecto de transición para suavizar cambios */
+}
+.comenzar:hover{
+    background-color: #1ab394;
+    color: white;
+}
+/* Media query para pantallas más pequeñas */
+@media only screen and (max-width: 768px) {
+    header {
+        padding: 10px 2%; /* Ajustar el relleno para pantallas aún más pequeñas */
+    }
+
+    nav {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav a {
+        margin: 5px 0;
+    }
+
+    .user-section {
+        flex-direction: column;
+        align-items: center;
+        margin-left: 0;
+    }
+
+    .logo img {
+        max-height: 25px; /* Ajustar el tamaño del logo para pantallas más pequeñas */
+    }
+    .inicio{
+        margin-left: 0%;
+    }
+    .user-section {
+        flex-direction: column;
+        align-items: center;
+        margin-left: 0;
+    }
+
+    .titulo {
+        margin-top: 10%;
+        margin-left: 5%;
+    }
+
+    .contenedor {
+        margin-top: 5%;
+    }
+
+    .parrafo {
+        margin-left: 5%;
+        text-align: center;
+    }
+
+    .izquierda,
+    .derecha {
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+
+    .robot {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .comenzar {
+        margin-left: 5%;
+        padding: 10px 20px;
+    }
+}
