@@ -1,0 +1,69 @@
+{
+  "nombre":"Administracion de Empresas",
+  "titulo":"Licenciado/a en Empresas",
+  "duracion":8,
+  "idUniversidad":"ESPOCH"
+}
+
+{
+  "nombre":"Contabilidad y Auditoría",
+  "titulo":"Licenciado/a en Contabilidad y Auditoría",
+  "duracion":8,
+  "idUniversidad":"ESPOCH"
+}
+
+{
+  "nombre":"Medicina",
+  "titulo":"Medico/a General",
+  "duracion":12,
+  "idUniversidad":"ESPOCH"
+}
+
+{
+  "nombre":"Tecnologias de la Informacion",
+  "titulo":"Ingeniero/a Tecnologias de la Informacion",
+  "duracion":10,
+  "idUniversidad":"ESPOCH"
+}
+
+{
+  "nombre":"Minas",
+  "titulo":"Ingeniero/a en Minas",
+  "duracion":10,
+  "idUniversidad":"ESPOCH"
+}
+
+{
+  "nombre":"Zootecnia",
+  "titulo":"Ingeniero/a Zootecnista",
+  "duracion":10,
+  "idUniversidad":"ESPOCH"
+}
+
+{
+  "nombre":"Ingenieria Ambiental",
+  "titulo":"Ingeniero/a Ambiental",
+  "duracion":10,
+  "idUniversidad":"ESPOCH"
+}
+
+{
+  "nombre":"Agronomia",
+  "titulo":"Ingeniero/a Agronomo/a",
+  "duracion":10,
+  "idUniversidad":"ESPOCH"
+}
+
+{
+  "nombre":"Software",
+  "titulo":"Ingeniero/a Sotware",
+  "duracion":10,
+  "idUniversidad":"ESPOCH"
+}
+
+{
+  "nombre":"Medicina Veterinaria",
+  "titulo":"Medico/a Veterinario/a",
+  "duracion":12,
+  "idUniversidad":"ESPOCH"
+}
