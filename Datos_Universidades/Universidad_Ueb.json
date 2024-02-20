@@ -1,0 +1,97 @@
+{
+  "nombre":"Administracion de Empresas",
+  "titulo":"Licenciado/a en Administracion de Empresas",
+  "duracion":8,
+  "idUniversidad":"UEB"
+}
+
+{
+  "nombre":"Contabilidad y Auditoria",
+  "titulo":"Licenciado/a en Contabilidad y Auditoria",
+  "duracion":8,
+  "idUniversidad":"UEB"
+}
+
+{
+  "nombre":"Comunicacion",
+  "titulo":"Licenciado/a en Comunicacion",
+  "duracion":8,
+  "idUniversidad":"UEB"
+}
+
+{
+  "nombre":"Turismo y Hoteleria",
+  "titulo":"Licenciado/a en Turismo y Hoteleria",
+  "duracion":8,
+  "idUniversidad":"UEB"
+}
+
+{
+  "nombre":"Software",
+  "titulo":"Ingeniero/a en Software",
+  "duracion":8,
+  "idUniversidad":"UEB"
+}
+
+{
+  "nombre":"Tecnologias de la Informacion",
+  "titulo":"Ingeniero/a en Tecnologias de la Informacion",
+  "duracion":8,
+  "idUniversidad":"UEB"
+}
+
+{
+  "nombre":"Medicina Veterinaria",
+  "titulo":"Medico/a en Veterinaria",
+  "duracion":9,
+  "idUniversidad":"UEB"
+}
+
+{
+  "nombre":"Agronomia",
+  "titulo":"Ingeniero/a en Agronomo",
+  "duracion":9,
+  "idUniversidad":"UEB"
+}
+
+{
+  "nombre":"Educacion Inicial",
+  "titulo":"Licenciado/a en Educacion Inicial",
+  "duracion":8,
+  "idUniversidad":"UEB"
+}
+
+{
+  "nombre":"Pedagogia de la Informatica",
+  "titulo":"Licenciado/a en Pedagogia de la Informatica",
+  "duracion":8,
+  "idUniversidad":"UEB"
+}
+
+{
+  "nombre":"Enfermeria",
+  "titulo":"Licenciado/a en Enfermeria",
+  "duracion":9,
+  "idUniversidad":"UEB"
+}
+
+{
+  "nombre":"Terapia Fisica",
+  "titulo":"Licenciado/a en Terapia Fisica",
+  "duracion":9,
+  "idUniversidad":"UEB"
+}
+
+{
+  "nombre":"Sociologia",
+  "titulo":"Licenciado/a en Sociologia",
+  "duracion":8,
+  "idUniversidad":"UEB"
+}
+
+{
+  "nombre":"Derecho",
+  "titulo":"Abogado/a",
+  "duracion":8,
+  "idUniversidad":"UEB"
+}
