@@ -1,0 +1,97 @@
+{
+  "nombre":"Diseño Grafico",
+  "titulo":"Licenciado/a en Diseño Grafico",
+  "duracion":8,
+  "idUniversidad":"UNACH"
+}
+
+{
+  "nombre":"Educacion Basica",
+  "titulo":"Licenciado/a en Ciencias de la Educacion Basica",
+  "duracion":8,
+  "idUniversidad":"UNACH"
+}
+
+{
+  "nombre":"Pedagogia de la Historia y las Ciencias Sociales",
+  "titulo":"Licenciado/a en Pedagogia de la Historia y Ciencias Sociales",
+  "duracion":8,
+  "idUniversidad":"UNACH"
+}
+
+{
+  "nombre":"Pedagogia de Lengua y Literatura",
+  "titulo":"Licenciado/a en Pedagogia de la Lengua y Literatura",
+  "duracion":8,
+  "idUniversidad":"UNACH"
+}
+
+{
+  "nombre":"Psicopedagogia",
+  "titulo":"Licenciado/a en Psicopedagogia",
+  "duracion":8,
+  "idUniversidad":"UNACH"
+}
+
+{
+  "nombre":"Agroindustria",
+  "titulo":"Ingeniero/a Agroindustrial",
+  "duracion":8,
+  "idUniversidad":"UNACH"
+}
+
+{
+  "nombre":"Arquitectura",
+  "titulo":"Arquitecto/a",
+  "duracion":9,
+  "idUniversidad":"UNACH"
+}
+
+{
+  "nombre":"Ingenieria Civil",
+  "titulo":"Ingeniero/a Civil",
+  "duracion":9,
+  "idUniversidad":"UNACH"
+}
+
+{
+  "nombre":"Tecnologias de la Informacion",
+  "titulo":"Ingeniero/a en Tecnologias de la Informacion",
+  "duracion":8,
+  "idUniversidad":"UNACH"
+}
+
+{
+  "nombre":"Telecomunicaciones",
+  "titulo":"Ingeniero/a en Telecomunicaciones",
+  "duracion":8,
+  "idUniversidad":"UNACH"
+}
+
+{
+  "nombre":"Ciencia de Datos e Inteligencia Artificial",
+  "titulo":"Ingeniero/a en Ciencia de Datos e Inteligencia Artificial",
+  "duracion":8,
+  "idUniversidad":"UNACH"
+}
+
+{
+  "nombre":"Enfermeria",
+  "titulo":"Licenciado/a en Enfermeria",
+  "duracion":9,
+  "idUniversidad":"UNACH"
+}
+
+{
+  "nombre":"Fisioterapia",
+  "titulo":"Licenciado/a en Fisioterapia",
+  "duracion":9,
+  "idUniversidad":"UNACH"
+}
+
+{
+  "nombre":"Medicina",
+  "titulo":"Medico",
+  "duracion":10,
+  "idUniversidad":"UNACH"
+}
