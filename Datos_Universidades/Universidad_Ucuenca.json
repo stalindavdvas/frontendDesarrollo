@@ -1,0 +1,97 @@
+{
+  "nombre":"Administracion de Empresas",
+  "titulo":"Licenciado/a en Administracion de Empresas",
+  "duracion":9,
+  "idUniversidad":"UCUENCA"
+}
+
+{
+  "nombre":"Comunicacion",
+  "titulo":"Licenciado/a en Comunicacion",
+  "duracion":8,
+  "idUniversidad":"UCUENCA"
+}
+
+{
+  "nombre":"Contabilidad y Auditoria",
+  "titulo":"Licenciado/a en Contabilidad y Auditoria",
+  "duracion":9,
+  "idUniversidad":"UCUENCA"
+}
+
+{
+  "nombre":"Derecho",
+  "titulo":"Abogado/a",
+  "duracion":9,
+  "idUniversidad":"UCUENCA"
+}
+
+{
+  "nombre":"Mercadotecnia",
+  "titulo":"Licenciado/a en Mercadotecnia",
+  "duracion":9,
+  "idUniversidad":"UCUENCA"
+}
+
+{
+  "nombre":"Cine",
+  "titulo":"Licenciado/a en Cine",
+  "duracion":8,
+  "idUniversidad":"UCUENCA"
+}
+
+{
+  "nombre":"Diseño Grafico",
+  "titulo":"Licenciado/a en Diseño Grafico",
+  "duracion":9,
+  "idUniversidad":"UCUENCA"
+}
+
+{
+  "nombre":"Arquitectura",
+  "titulo":"Arquitecto/a",
+  "duracion":10,
+  "idUniversidad":"UCUENCA"
+}
+
+{
+  "nombre":"Computacion",
+  "titulo":"Ingeniero/a en Ciencias de la Computacion",
+  "duracion":10,
+  "idUniversidad":"UCUENCA"
+}
+
+{
+  "nombre":"Ingenieria Civil",
+  "titulo":"Ingeniero/a Civil",
+  "duracion":10,
+  "idUniversidad":"UCUENCA"
+}
+
+{
+  "nombre":"Ingenieria Industrial",
+  "titulo":"Ingeniero/a Industrial",
+  "duracion":10,
+  "idUniversidad":"UCUENCA"
+}
+
+{
+  "nombre":"Bioquimica y Farmacia",
+  "titulo":"Bioquimico/a Farmaceutico/a",
+  "duracion":10,
+  "idUniversidad":"UCUENCA"
+}
+
+{
+  "nombre":"Laboratorio Clinico",
+  "titulo":"Licienciado/a en Laboratorio Clinico",
+  "duracion":9,
+  "idUniversidad":"UCUENCA"
+}
+
+{
+  "nombre":"Medicina",
+  "titulo":"Medico/a",
+  "duracion":10,
+  "idUniversidad":"UCUENCA"
+}
