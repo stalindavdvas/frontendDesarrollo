@@ -1,0 +1,22 @@
+.sidebarCss{
+    background-color: #ffffff;
+}
+.logout{
+    margin-left: 75%;
+}
+.columnaSide{
+    border-right: 1px solid #686565;
+}
+.btnChat{
+    background: #01927e;
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+    border-radius: 34px;
+}
+@media only screen and (max-width: 768px) {
+    .logout{
+        margin-left: 0%;
+    }
+
+}

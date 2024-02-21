@@ -21,8 +21,8 @@ export default function Barra() {
             
           </Nav>
           <Nav>
-            <NavLink to="#deets" className="navlink userLogin">Ingresar</NavLink>
-            <NavLink eventKey={2} href="#memes" className="userRegister" style={{color:"white"}}>
+            <NavLink to="/Login" className="navlink userLogin">Ingresar</NavLink>
+            <NavLink eventKey={2} to="/Registro" className="userRegister" style={{color:"white"}}>
               Registrarse
             </NavLink>
           </Nav>
